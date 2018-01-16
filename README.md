@@ -2,9 +2,8 @@
 
 ## Packages Used
 
-The code is written in Python 2.7.12 and uses non-built in packages [Flask]
-(https://pypi.python.org/pypi/Flask/0.12.2) and [requests]
-(http://docs.python-requests.org/en/master/user/install/).
+The code is written in Python 2.7.12 and uses non-built in packages [Flask](https://pypi.python.org/pypi/Flask/0.12.2)
+and [requests](http://docs.python-requests.org/en/master/user/install/).
 
 ## Running the server
 
