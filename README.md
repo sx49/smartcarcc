@@ -7,7 +7,7 @@ and [requests](http://docs.python-requests.org/en/master/user/install/).
 
 ## Running the server
 
-Once Python 2 is on your computer, use command prompt to go into the smartcarcc
-directory and run *./server.py* to start your server. You can then open up another
+Once Python 2, Flask, and requests are downloaded onto your computer, use command prompt to go into the smartcarcc
+directory and run *python server.py* to start your server. You can then open up another
 terminal to run curl commands. Otherwise, if you want to run the unit tests, run
 *python server_test.py*.
